@@ -8,8 +8,10 @@
 
 ## About <a name = "about"></a>
 
-This is a script where you can spawn a gizmo to move entity with precision.
-You can also check my other scripts at [my store](https://roleplayv.tebex.io/).
+This is a script where you can spawn a gizmo to move entity with precision.<br>
+You can also check my other scripts at [my store](https://roleplayv.tebex.io/).<br>
+<br>
+Join my [discord server](https://discord.gg/jVyJygKAe6) for help
 
 
 ## Getting Started <a name = "getting_started"></a>
