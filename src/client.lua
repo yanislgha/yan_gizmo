@@ -28,6 +28,12 @@ function StartGizmo(entity, allowScale)
                 EnterCursorMode()
             end
 
+            if (IsControlJustPressed(0, 23)) then
+                cursorMode = false
+                LeaveCursorMode()
+                DrawGizmo = false
+            end
+            
             DisableControlAction(0, 24, true)
             DisableControlAction(0, 45, true)
             DisableControlAction(0, 140, true)
